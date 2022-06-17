@@ -1,4 +1,4 @@
-## Oiii eu sou Lucas Motizuki, estou atualmente estudando programação focado no front-end!
+## Hi i'm Lucas Motizuki, estou atualmente estudando programação focado no front-end!
 <div align="center">
   <a href="https://github.com/rafaballerini">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=LksMoti&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/>
