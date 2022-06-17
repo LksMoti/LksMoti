@@ -1,7 +1,7 @@
 ## Hi, I'm Lucas Motizuki, and I'm currently studying and applying programming for now focused on the front-end.
 ##
 <div align="center">
-  <a href="https://github.com/rafaballerini">
+  <a href="https://github.com/LksMoti">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=LksMoti&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/>
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=LksMoti&layout=compact&langs_count=7&theme=dark"/>
 </div>
